@@ -1,4 +1,4 @@
-package com.example.landing;
+package com.vladimir.pletniov;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

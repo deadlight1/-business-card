@@ -1,4 +1,4 @@
-package com.example.landing;
+package com.vladimir.pletniov;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
